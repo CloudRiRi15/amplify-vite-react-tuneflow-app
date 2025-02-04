@@ -10,10 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/api": "^6.2.2",
+    "@aws-amplify/pubsub": "^6.1.42",
     "@aws-amplify/ui-react": "^6.5.5",
-    "aws-amplify": "^6.6.6",
+    "autoprefixer": "^10.4.20",
+    "aws-amplify": "^6.12.2",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "stripe": "^17.6.0"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.5.0",
@@ -30,6 +36,7 @@
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
+    "tailwindcss": "^4.0.3",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
     "vite": "^5.4.10"
