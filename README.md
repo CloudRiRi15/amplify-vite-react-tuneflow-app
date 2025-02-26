@@ -23,3 +23,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+TuneFlow App Architecture
+
+![Screenshot 2025-02-26 115427](https://github.com/user-attachments/assets/8b6e2cd0-4b0d-4dc4-be15-b144c1c8c95f)
